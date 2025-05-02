@@ -1,4 +1,4 @@
-# JavaScript Platform Game
+ # JavaScript Platform Game
 
 ## Overview
 This platform game is inspired by *Dark Blue* by Thomas Palef ([original game](http://www.lessmilk.com/games/10)). It offers a minimalist yet engaging gameplay experience, designed with simplicity and efficiency in mind.
@@ -25,7 +25,7 @@ This platform game is inspired by *Dark Blue* by Thomas Palef ([original game](h
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/platform-game.git
+   git clone https://github.com/MongaAman04/platform-game.git
 2. Navigate to the project directory
   cd platform-game
 3.open index.html in browser to play the game
